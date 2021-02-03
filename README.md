@@ -82,5 +82,6 @@ Result of packages branch:
 
 2021-01
 
+ + Adds npm version 1.1.2 (clone from github, copy to version branch)
  + Init adding sprintf.js as alias: npm-sprintf.js
 
